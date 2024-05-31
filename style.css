@@ -1,3 +1,10 @@
 .strong {
     color: purple;
 }
+
+footer {
+    text-align: right;
+    color: purple;
+    font-weight: bold;
+    clear: both;
+}
