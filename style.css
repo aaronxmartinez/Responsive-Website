@@ -8,25 +8,30 @@ h1 {
     font-weight: bolder;
 }
 
-.strong {
+strong {
     color: purple;
 }
 
 .mountain {
     display: inline-block;
-    width: 50%;
-    /* border: solid black 5px; */
+    width: 40%;
+    text-align: left;
 }
 
-.beauty, .mountain_text {
+.beauty, .mountain_text, h2, .construction_text {
     position: relative;
     left: 10px;
 }
 
-.mountain img {
+.mountain img, .construction img {
     float: left;
 }
 
+.construction {
+    display: inline-block;
+    width: 40%;
+    text-align: right;
+}
 
 footer {
     text-align: right;
