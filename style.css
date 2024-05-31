@@ -1,3 +1,6 @@
+body {
+    padding: 10px;
+}
 h1 {
     color: orange;
     text-decoration: underline;
@@ -13,9 +16,9 @@ strong {
 }
 
 .mountain {
-    display: inline-block;
-    width: 40%;
-    text-align: left;
+    /* display: inline-block; */
+    width: 45%;
+    float: left;
 }
 
 .beauty, .mountain_text, h2, .construction_text {
@@ -28,9 +31,9 @@ strong {
 }
 
 .construction {
-    display: inline-block;
+    /* display: inline-block; */
     width: 40%;
-    text-align: right;
+    float: right;
 }
 
 footer {
