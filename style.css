@@ -2,16 +2,21 @@
     color: purple;
 }
 
+.mountain, .construction {
+    display: inline-block;
+}
+
+.beauty, .mountain_text {
+    position: relative;
+    left: 10px;
+}
+
 .mountain img {
     float: left;
 }
 
 .construction img {
     float: right;
-}
-
-.bee img {
-    float: left;
 }
 
 footer {
