@@ -2,6 +2,18 @@
     color: purple;
 }
 
+.mountain img {
+    float: left;
+}
+
+.construction img {
+    float: right;
+}
+
+.bee img {
+    float: left;
+}
+
 footer {
     text-align: right;
     color: purple;
