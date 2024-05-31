@@ -1,3 +1,13 @@
+h1 {
+    color: orange;
+    text-decoration: underline;
+}
+
+.intro {
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
 .strong {
     color: purple;
 }
@@ -23,5 +33,6 @@ footer {
     text-align: right;
     color: purple;
     font-weight: bold;
+    text-decoration: underline 3px;
     clear: both;
 }
