@@ -16,7 +16,6 @@ strong {
 }
 
 .mountain {
-    /* display: inline-block; */
     width: 45%;
     float: left;
 }
@@ -31,13 +30,15 @@ strong {
 }
 
 .construction {
-    /* display: inline-block; */
     width: 40%;
     float: right;
 }
 
 footer {
-    text-align: right;
+    position: absolute;
+    bottom: 0px;
+    left: 600px;
+    font-size: xx-large;
     color: purple;
     font-weight: bold;
     text-decoration: underline 3px;
